@@ -1,7 +1,7 @@
 {
-  "orgName": "DevTest",
-  "tokenName": "Dev",
-  "tokenSymbol": "DEV",
+  "orgName": "Genesis DAO",
+  "tokenName": "HMN",
+  "tokenSymbol": "HMN",
   "useUController": false,
   "useDaoCreator": true,
   "ContributionReward": {
@@ -9,29 +9,24 @@
   "founders": [
     {
       "address": "0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1",
-      "reputation": 250,
-      "tokens": 2000
+      "reputation": 100,
+      "tokens": 100
     },
     {
       "address": "0xFFcf8FDEE72ac11b5c542428B35EEF5769C409f0",
-      "reputation": 150,
-      "tokens": 1000
+      "reputation": 100,
+      "tokens": 100
     },
     {
       "address": "0x22d491bde2303f2f43325b2108d26f1eaba1e32b",
-      "reputation": 200,
-      "tokens": 1500
-    },
-    {
-      "address": "0xe11ba2b4d45eaed5996cd0823791e0c93114882d",
-      "reputation": 200,
-      "tokens": 1500
-    }
+      "reputation": 100,
+      "tokens": 100
+    }    
   ],
    "UGenericScheme":[
      {
        "voteParams": 0,
-       "targetContract": "0x4a35d1434D34Ac7842381362924E6399ca63Da5A"
+       "targetContract": "0x7cBA262f7E271AfaA012C4da10d52165ae01F3B5"
      }
    ],
   "SchemeRegistrar": {
